@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon.a  CMakeFiles/common.dir/DataDirectories_static.cpp.o CMakeFiles/common.dir/Version.cpp.o CMakeFiles/common.dir/unix/DataDirectories.cpp.o
+/usr/bin/ranlib libcommon.a
